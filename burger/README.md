@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <p align="center">
   <img src="https://github.com/SerkanBahtiyar/burgerProjectReact/blob/main/burger/src/assets/a.png" alt="image1">
-  <br>
+  <br> <br> <br>
     <img src="https://github.com/SerkanBahtiyar/burgerProjectReact/blob/main/burger/src/assets/b.png" alt="image1">
 </p>
 
